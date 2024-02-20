@@ -1,5 +1,8 @@
 # Aplikasi-Login
+== 
 Sebuah aplikasi dengan fitur login
+--
+Berikut adalah alur fitur login
 
 Alur Fitur Login;
 1. Memasukkan email dan password
